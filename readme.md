@@ -64,4 +64,4 @@ The dataset used for this analysis is available in the repository as imdb_movies
 Contributions are welcome! Fork the repository and submit a pull request for any improvements or new features.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
